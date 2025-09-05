@@ -1,4 +1,10 @@
 {
-    "XG7Plugins": "1.2.6",
-    "XG7Lobby": "2.2.7"
+    "XG7Plugins": {
+        "version": "1.2.6",
+        "download_url": ""
+    },
+    "XG7Lobby": {
+        "version": "2.2.7",
+        "download_url": ""
+    }
 }
