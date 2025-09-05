@@ -1,2 +1,0 @@
-# Versions
-Versões dos plugins
