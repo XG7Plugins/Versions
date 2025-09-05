@@ -1,10 +1,10 @@
 {
     "XG7Plugins": {
         "version": "1.2.6.test",
-        "download_url": ""
+        "download_url": "https://github.com/XG7Plugins/XG7Plugins/releases/download/1.2.5.1/XG7PluginsCore-1.2.5.1.jar"
     },
     "XG7Lobby": {
         "version": "2.2.7.test",
-        "download_url": ""
+        "download_url": "https://www.spigotmc.org/resources/xg7lobby-hub-management-1-8-x-1-21-x-mysql-redis-nlogin-placeholderapi-support.112029/download?version=604003"
     }
 }
